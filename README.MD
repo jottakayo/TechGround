@@ -8,4 +8,5 @@ feat_intro:
 
 feat_sobre:
 
-- A Empresa Fantasma é uma empresa especializada em desenvolvimento web que oferece soluções personalizadas para atender às necessidades dos seus clientes.
+
+feat_clientes:
